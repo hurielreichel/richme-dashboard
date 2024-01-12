@@ -1,0 +1,26 @@
+{
+    "id": "6F50D014",
+    "path": "~/richme/R/basics.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "3400580550",
+    "contents": "",
+    "dirty": false,
+    "created": 1705073632062.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "124,61",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1705073788,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705073788045,
+    "read_only": false,
+    "read_only_alternatives": []
+}
